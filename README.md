@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://github.com/Orchid-eng-jy">Jinyuan</a></h2>
-<p>I'm a <strong>cybersecurity undergraduate</strong> at <strong><a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a></strong> based in 🌆 Shenzhen. I build things at the intersection of <strong>LLM agents</strong>, <strong>runtime security</strong>, <strong>Android systems</strong>, and <strong>embodied AI</strong> — usually with one eye on the threat model and the other on the demo.</p>
+<p>I'm a <strong>cybersecurity undergraduate</strong> at <strong><a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a></strong> based in 🌆 Shenzhen. I build things at the intersection of <strong>LLM agents</strong>, <strong>runtime security</strong>.</p>
 <p>
   <a href="https://github.com/Orchid-eng-jy"><img src="https://img.shields.io/badge/-Orchid--eng--jy-24292e?style=flat-square&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/Orchid-eng-jy" alt="GitHub Badge"></a>
   <a href="https://www.sysu.edu.cn/"><img src="https://img.shields.io/badge/-Sun%20Yat--sen%20University-006747?style=flat-square&labelColor=006747&logo=google-scholar&logoColor=white&link=https://www.sysu.edu.cn/" alt="SYSU Badge"></a>
