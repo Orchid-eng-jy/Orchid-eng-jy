@@ -1,11 +1,11 @@
 <h2>Hey 👋, I'm <a href="https://github.com/Orchid-eng-jy">Jinyuan</a></h2>
-<p>I'm a <strong>cybersecurity undergraduate</strong> at <strong><a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a></strong> based in 🌆 Shenzhen. I build things at the intersection of <strong>LLM agents</strong>, <strong>runtime security</strong>.</p>
+<p>I'm a <strong>cybersecurity undergraduate</strong> at <strong><a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a></strong> based in 🌆 Shenzhen. I build things at the intersection of <strong>LLM agents</strong> and <strong>runtime security</strong>.</p>
 <p>
   <a href="https://github.com/Orchid-eng-jy"><img src="https://img.shields.io/badge/-Orchid--eng--jy-24292e?style=flat-square&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/Orchid-eng-jy" alt="GitHub Badge"></a>
   <a href="https://www.sysu.edu.cn/"><img src="https://img.shields.io/badge/-Sun%20Yat--sen%20University-006747?style=flat-square&labelColor=006747&logo=google-scholar&logoColor=white&link=https://www.sysu.edu.cn/" alt="SYSU Badge"></a>
   <a href="https://github.com/Orchid-eng-jy?tab=repositories"><img src="https://img.shields.io/badge/-Projects-4E69C8?style=flat-square&labelColor=4E69C8&logo=git&logoColor=white&link=https://github.com/Orchid-eng-jy?tab=repositories" alt="Projects Badge"></a>
 </p>
-<p>🔐 Don't forget to threat-model before you ship 🔐</p>
+
 <h2>⚡️ About Me</h2>
 <ul>
   <li>🔭 I'm currently working on LLM-based Agent runtime security.</li>
